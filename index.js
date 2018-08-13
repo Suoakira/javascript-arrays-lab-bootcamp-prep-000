@@ -20,5 +20,5 @@ function destructivelyRemoveFirstKitten() {
 
 function appendKitten(name) {
   var appendKitten = [];
-  appendKitten = kittens.unshift(name);
+  return appendKitten = kittens.unshift(name);
 }
