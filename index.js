@@ -24,6 +24,3 @@ function appendKitten(name) {
   return neKittens;
 }
 
-function prependKitten(name) {
-  var 
-}
